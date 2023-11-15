@@ -1,0 +1,912 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html">
+    <meta charset="UTF-8">
+    <meta name="color-scheme" content="light dark">
+    <meta name="supported-color-schemes" content="light dark">
+    <title>Celebrating 15 years of health innovation</title>
+
+    <!--[if !mso]>
+
+<!-- -->
+
+    <!--[if (gte mso 9)|(IE)]>
+
+<!-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap" rel="stylesheet">
+
+    <!--<![endif]-->
+
+    <!--<![endif]-->
+
+    <!--[if gte mso 9]>
+<style type="text/css">
+.menu-label{
+    display: none !important;
+    font-size: 0px !important; 
+    line-height: 0px !important;
+}
+</style>
+<![endif]-->
+
+    <!--[if gte !mso]>
+<style type="text/css">
+.menu-label{
+    display: block !important;
+    font-size: 16px !important; 
+    line-height: 40px !important;
+}
+</style>
+<![endif]-->
+    <style type="text/css">
+      @font-face {
+        font-family: 'Aeonik-bold';
+        src: url('https://media.withings.com/email/permanent/2023-bp/Aeonik-Regular.woff2') format('woff2'),
+          url('https://media.withings.com/email/permanent/2023-bp/Aeonik-Regular.woff') format('woff');
+        font-weight: 500;
+        font-style: normal;
+        font-display: swap;
+        mso-font-alt: 'Arial';
+      }
+      @font-face {
+        font-family: 'Aeonik';
+        src: url('https://media.withings.com/email/permanent/2023-bp/Aeonik-Light.woff2') format('woff2'),
+          url('https://media.withings.com/email/permanent/2023-bp/Aeonik-Light.woff') format('woff');
+        font-weight: 400;
+        font-style: normal;
+        font-display: swap;
+        mso-font-alt: 'Arial';
+      }
+      @font-face {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        mso-font-alt: 'Arial';
+        src: url('https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2') format('woff2');
+      }
+      #checkbox:checked+table #wrapper {
+        display: block !important;
+        width: auto !important;
+        float: none !important;
+        max-height: 550px !important;
+        height: auto !important;
+      }
+      #checkbox:checked+table #burger-line-1 {
+        animation: openBurgerLine1 cubic-bezier(0.645, 0.045, 0.355, 1) 400ms forwards;
+      }
+      #checkbox:checked+table #burger-line-2 {
+        animation: openBurgerLine2 cubic-bezier(0.645, 0.045, 0.355, 1) 400ms forwards;
+      }
+      #checkbox:checked+table #burger-line-3 {
+        animation: openBurgerLine3 cubic-bezier(0.645, 0.045, 0.355, 1) 400ms forwards;
+      }
+      .delay-0-1 {
+        animation-delay: .1s;
+      }
+      .delay-0-2 {
+        animation-delay: .2s;
+      }
+      .delay-0-3 {
+        animation-delay: .3s;
+      }
+      .delay-0-4 {
+        animation-delay: .4s;
+      }
+      .delay-0-5 {
+        animation-delay: .5s;
+      }
+      .delay-0-6 {
+        animation-delay: .6s;
+      }
+      .delay-0-7 {
+        animation-delay: .7s;
+      }
+      .delay-0-8 {
+        animation-delay: .8s;
+      }
+      .delay-0-9 {
+        animation-delay: .9s;
+      }
+      .delay-1 {
+        animation-delay: 1s;
+      }
+      .delay-2 {
+        animation-delay: 2s;
+      }
+      .delay-3 {
+        animation-delay: 3s;
+      }
+      .menu-label {
+        font-size: 16px !important;
+        line-height: 40px !important;
+      }
+      #checkbox:checked+table .fade {
+        animation-name: fadeInLeft;
+        animation-duration: .4s;
+        animation-fill-mode: both;
+      }
+      .cta_hover_blue:hover {
+        background-color: #5168CC !important;
+        color: #F2EEEA !important;
+        box-shadow: none !important;
+      }
+      .cta_hover_black:hover {
+        background-color: #393633 !important;
+        color: #F2EEEA !important;
+        box-shadow: none !important;
+      }
+      .cta_blue:hover {
+        color: #F2EEEA !important;
+      }
+      .cta_black:hover {
+        color: #1A1A1A !important;
+      }
+      .cta_pulse {
+        animation: 3s pulse infinite;
+      }
+      @keyframes pulse {
+        0% {
+          box-shadow: 0 0 0 0px rgba(81, 106, 254, 0.5);
+        }
+        100% {
+          box-shadow: 0 0 0 7px rgba(122, 139, 238, 0);
+        }
+      }
+      @keyframes openBurgerLine1 {
+        0% {
+          transform: translate(0px, 0px) rotate(0deg);
+          opacity: 1;
+        }
+        50% {
+          transform: translate(0px, 8px) rotate(0deg);
+          opacity: 1;
+        }
+        55% {
+          transform: translate(0px, 8px) rotate(0deg);
+          opacity: 1;
+        }
+        100% {
+          transform: translate(0px, 8px) rotate(-45deg);
+          opacity: 1;
+        }
+      }
+      @keyframes openBurgerLine2 {
+        0% {
+          opacity: 1;
+        }
+        50% {
+          opacity: 1;
+        }
+        55% {
+          opacity: 0;
+        }
+        100% {
+          opacity: 0;
+        }
+      }
+      @keyframes openBurgerLine3 {
+        0% {
+          transform: translate(0px, 0px) rotate(0deg);
+          opacity: 1;
+        }
+        50% {
+          transform: translate(0px, -8px) rotate(0deg);
+          opacity: 1;
+        }
+        55% {
+          transform: translate(0px, -8px) rotate(0deg);
+          opacity: 1;
+        }
+        100% {
+          transform: translate(0px, -8px) rotate(45deg);
+          opacity: 1;
+        }
+      }
+      @keyframes fadeInLeft {
+        from {
+          opacity: 0;
+          transform: translate3d(-100%, 0, 0);
+        }
+        to {
+          opacity: 1;
+          transform: none;
+        }
+      }
+      #wrapper {
+        max-height: 0px !important;
+        transition: max-height 0.5s linear;
+      }
+      #animated-menu {
+        width: 24px !important;
+      }
+      .show {
+        display: block !important;
+        width: auto !important;
+        overflow: visible !important;
+        float: none !important;
+      }
+      @media (prefers-color-scheme: dark) {
+        .bg-prim {
+          background: #0F0F0F !important
+        }
+        .bg-sec {
+          background-color: #2D2B28 !important;
+        }
+        .bg-ter {
+          background-color: #53504C !important;
+        }
+        .light-text {
+          color: #F2EEEA !important;
+        }
+        .dark-text {
+          color: #0F0F0F !important;
+        }
+        .invert {
+          filter: invert(100%) !important;
+        }
+        .spacer {
+          background-color: #45413E !important;
+          color: #45413E;
+        }
+        .box-shadow {
+          box-shadow: 0px 4px 4px #45413E !important
+        }
+      }
+      .text {
+        color: #ffffff !important;
+      }
+      @media only screen and (min-width: 811px) {
+        .desktop-no-radius {
+          border-radius: 0px !important;
+        }
+        .desktop-radius {
+          border-radius: 8px !important;
+        }
+        .desktop-radius-top-right {
+          border-top-right-radius: 8px !important;
+        }
+        .desktop-radius-top-left {
+          border-top-left-radius: 8px !important;
+        }
+        .desktop-padding-bottom {
+          padding-bottom: 32px !important;
+        }
+        .desktop-padding-top {
+          padding-top: 32px !important;
+        }
+        .desktop-padding-left {
+          padding-left: 32px !important;
+        }
+        .desktop-padding-fix {
+          padding-top: 82px !important;
+          padding-bottom: 82px !important;
+        }
+        .desktop-no-padding {
+          padding: 0px !important;
+        }
+        .desktop-no-padding-top {
+          padding-top: 0px !important;
+        }
+        .desktop-text-left {
+          text-align: left !important;
+        }
+        .desktop-bg-img_hide {
+          display: none !important;
+        }
+        .img_desktop {
+          display: block !important;
+        }
+        .desktop-bg-img1 {
+          background-image: url(https://media.withings.com/email/temporary/202306/withings15/img01a.jpg) !important;
+          background-repeat: no-repeat !important;
+          background-position: top !important;
+          background-size: 100% !important;
+        }
+        .desktop-bg-img2 {
+          background-image: url(https://media.withings.com/email/temporary/202306/withings15/img02a.jpg) !important;
+          background-size: 100% !important;
+          background-repeat: no-repeat !important;
+          background-position: top !important;
+        }
+        .desktop-bg-img3 {
+          background-image: url(https://media.withings.com/email/temporary/202306/withings15/img03a.jpg) !important;
+          background-size: 100% !important;
+          background-repeat: no-repeat !important;
+          background-position: top !important;
+        }
+        .desktop-bg-img4 {
+          background-image: url(https://media.withings.com/email/temporary/202306/withings15/img04a.jpg) !important;
+          background-size: 100% !important;
+          background-repeat: no-repeat !important;
+          background-position: top !important;
+        }
+        .desktop-bg-img5 {
+          background-image: url(https://media.withings.com/email/temporary/202306/withings15/img05a.jpg) !important;
+          background-size: 100% !important;
+          background-repeat: no-repeat !important;
+          background-position: top !important;
+        }
+        .desktop-no-bg {
+          background-color: #0F0F0F !important;
+        }
+      }
+      @media only screen and (max-width: 800px) {
+        .mobile-no-radius {
+          border-radius: 0px !important;
+        }
+        .mobile-text-center {
+          text-align: center !important;
+        }
+        .mobile-padding-left {
+          padding-left: 40px !important;
+        }
+        .mobile-padding-right {
+          padding-right: 40px !important;
+        }
+        .mobile-text-left {
+          text-align: left !important;
+        }
+        .mobile-no-padding {
+          padding: 0px !important;
+        }
+        .mobile-no-padding-top {
+          padding-top: 0px !important;
+        }
+        .mobile-no-padding-right {
+          padding-right: 0px !important;
+        }
+        .mobile-no-padding-left {
+          padding-left: 0px !important;
+        }
+        .mobile-half-width {
+          width: 50% !important;
+          min-width: 50% !important;
+          max-width: 50% !important;
+        }
+        .mobile-width-30pe {
+          width: 30% !important;
+        }
+        .mobile-width-70pe {
+          width: 70% !important;
+        }
+        .mobile-full-width {
+          width: 100% !important;
+        }
+        img {
+          outline: none;
+          text-decoration: none;
+          -ms-interpolation-mode: bicubic;
+        }
+        a img {
+          border: none;
+        }
+        a img:hover {
+          opacity: 0.8;
+        }
+        table {
+          mso-table-lspace: 0pt;
+          mso-table-rspace: 0pt;
+        }
+        body {
+          -ms-text-size-adjust: 100%;
+          -webkit-text-size-adjust: 100%;
+          width: 100% !important;
+        }
+      }
+      * [summary~="hide"] {
+          {
+          display: none;
+        }
+      }
+    </style>
+  </head>
+  <body style="margin:0; padding:0; word-spacing: normal;">
+
+    <!-- ENCAPSULATION - Setting of the email width-->
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td class="bg-prim" style="background-color: #0F0F0F;">
+          <div style="max-height:0; width:0; overflow:hidden; float:left; display:none;">Without you it wouldn't have been possible. Thank you for helping us make connected health a reality.</div>
+          <div style="max-height:0; width:0; overflow:hidden; float:left; display:none;">&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌</div>
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td>
+
+                <!-- BLOCK - Introduction -->
+                <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                  <tr>
+                    <td>
+
+                      <!--[if mso]><table width="720" align="center" border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                      <table width="90%" border="0" cellpadding="0" cellspacing="0" align="center" style="max-width: 720px; background: rgba(15, 15, 15, 0.7);">
+                        <tr>
+                          <td>
+                            <input id="checkbox" style="display: none!important; max-height: 0; visibility: hidden;" type="checkbox">
+
+                            <!--[if mso]></p><![endif]-->
+                            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <td>
+                                  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                      <td style="width:74px;">
+                                        <div class="show" summary=”hide”>
+                                          <label for="checkbox" id="animated-menu" style="cursor: pointer; float:left; padding: 22px; width: 0px;">
+                                            <b id="burger-line-1" style="background-color: #ffffff; border-radius: 2px; display: block; height: 2px;"></b>
+                                            <b id="burger-line-2" style="background-color: #ffffff; border-radius: 2px; display: block; height: 2px; margin-top: 6px;"></b>
+                                            <b id="burger-line-3" style="background-color: #ffffff; border-radius: 2px; display: block; height: 2px; margin-top: 6px;"></b>
+                                          </label>
+                                        </div>
+                                      </td>
+                                      <td style="text-align: center; padding: 16px 0px 16px 0px;">
+                                        <a href="https://email.email.withings.com/c/eJxUzsGOAiEMBuCnKUfTKR2KBw67Mb7GpAI6JDJOEJfX32j2ssd-af7_T8HxJbE3OUzO-0nYz96sQdhdxSqxZMaLI7XHGMXrLNfEVo-mBEKyKDgh2gnlgIjkcb7OwjEl64AxVy33wyh9LdvteYiPau5h7X1_gv0COgOdxxj_HsCeX70uz8erxQz2FFsFcm-qOZVXBXv6pP5h1LpruW1v_slbX0bTfc_NtFC19zXfL-UGjDV_2nuIrS4ae3lsC4sTM5J2DSDfQJSB6DOMjo5FrLxvOf0GAAD__y4VWRA">
+                                          <img id="logo" alt="Withings" border="0" src="https://media.withings.com/email/permanent/2023-bp/withings-logo-dark1.png" width="130" height="auto" />
+                                        </a>
+                                      </td>
+                                      <td style="width:74px;">
+                                        <div>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+
+                                  <!--[if !mso 9]>
+
+<!-->
+                                  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                      <td>
+                                        <div id="wrapper" style="max-height: 0px; height: 0px; overflow:hidden; float:left; display:none;">
+                                          <table width="100%" border="0" cellpadding="0" cellspacing="0" style="padding: 15px 30px 15px 30px;">
+                                            <tr>
+                                              <td>
+                                                <a class="menu-label fade delay-0-1" href="https://email.email.withings.com/c/eJxUzsFugzAMxvGnMcfK2CGhhxw2VX0NZBy3RGoognS8_gTaZUf_ZH36p-jdmFzfWGx937fB9V3fTPHKjJ1jJS_sVNJjVNFra85GNTFrciQkxoAtIrcYLohIPXaPLjhNiT04tCL5ddlznfL83C76Ls0rTrUuG_AX0B3ovu_7v4eDpOpkG_D9U8uwvT-rGvBN1wLkDyqW8qcA3879P1Qpi-TnfPCPzXXYV1kWW5s1Fql1steYn-Cw2NlRo65lEK35PQ8u-NDsSapECN9AZEB0JtLVuxA4HHe4_QYAAP__E6pd0g" target="_blank" style="display:block; font-size:0px; line-height:0px; font-weight:300; text-decoration:none; color:#ffffff; font-family: 'gotham-light', 'Roboto Light', Roboto, Helvetica Neue, Helvetica, Open sans, Arial, sans-serif; cursor:pointer;">Watches</a>
+                                              </td>
+                                            </tr>
+                                            <tr>
+                                              <td>
+                                                <a class="menu-label fade delay-0-2" href="https://email.email.withings.com/c/eJxUzsFugzAMxvGnMcfK2CFODzlsqngN5CZpiUQognR5_alolx39k_XpH70192hcl3xvnevFuMF1s4-Je3o4TZaFdbDuSr0yikWOVxXqsickRsEekXuUCyKSw-ExiAkxsgWDqWheLi3XOa_P4xJepVv8XOt2AH8BjUBja-3fA9B4BF3SATy-a5mO13sPCfgW9gJkP1RSzO8CfDvn_zBo2TQ_1w__pLVObddtS3u3-6K1zmm55ycYLOnMqD7sZdJQ82udjFjpWtSqHuQbiBIQnYV0tUaE5XPL7TcAAP__EO1bvQ" target="_blank" style="display:block; font-size:0px; line-height:0px; font-weight:300; text-decoration:none; color:#ffffff; font-family: 'gotham-light', 'Roboto Light', Roboto, Helvetica Neue, Helvetica, Open sans, Arial, sans-serif; cursor:pointer;">Scales</a>
+                                              </td>
+                                            </tr>
+                                            <tr>
+                                              <td>
+                                                <a class="menu-label fade delay-0-3" href="https://email.email.withings.com/c/eJxUzkGOqzAMxvHTmN2rjBPidJHFG1VcA4UklEgEUHAn1x-1ms0s_ZOl7x-d0XPUtkuuN9b2rO1gu9XhMC8mktcz9zbMNi32PqhFz5qSYuu77AhJIWOPqHrkGyKSxWEZWIcYlQGNqfi83VqWNe_P6xaO0m1uFTkvUP-BRqCxtfbnAWhck99k_VeOPctRL1DjS8p0Ha8aEqhHqAXIvKmkmF8F1OOz84vBl9Pn5_7m77TL1Ko_z1S76ooXWdM25ydoLOnTIy7UMvkg-dgnzYa7Fr14B_wFRAmIPql0N5pZ8fvmx08AAAD__5LKYCo" target="_blank" style="display:block; font-size:0px; line-height:0px; font-weight:300; text-decoration:none; color:#ffffff; font-family: 'gotham-light', 'Roboto Light', Roboto, Helvetica Neue, Helvetica, Open sans, Arial, sans-serif; cursor:pointer;">Health Monitors</a>
+                                              </td>
+                                            </tr>
+                                            <tr>
+                                              <td>
+                                                <a class="menu-label fade delay-0-4" href="https://email.email.withings.com/c/eJxUzs2K6zAMhuGrUZZFkX_ks_DiDCW3ERzZTQxxElx3fPtDy2xmqQfx8UZv9RK1G5IfrXMja2fcsHkxVh6RREeb0MXESIsZLZPRLBRlyJ6QFDKOiGpEviEiOTQPw1piVBY0phLyfuu5bflYnzc5y7D7rbXrCeo_0AQ09d7_PABNy36uoKZXK_PzfFVJoO5SC5B9U0kxvwqo-2f8FyWUK-T1ePN3Otrca7iuVIfqS2htS_uSV9BY0ieieallDtLyecyaLQ89hhY88BcQJSD69NE_q5kVv2--_wQAAP___opbpQ" target="_blank" style="display:block; font-size:0px; line-height:0px; font-weight:300; text-decoration:none; color:#ffffff; font-family: 'gotham-light', 'Roboto Light', Roboto, Helvetica Neue, Helvetica, Open sans, Arial, sans-serif; cursor:pointer;">Blog</a>
+                                              </td>
+                                            </tr>
+                                            <tr>
+                                              <td>
+                                                <a class="menu-label fade delay-0-5" href="https://email.email.withings.com/c/eJxUzkGO8yAMBeDTmGVlbILJgsX_q-o1IgJMgxTSiNLJ9UeJZjNLf7Lee8lbMyfjVPbaOqfFuMGpxYvDxMYkrYfRZh7JRJ5nJIwycrKjKp6QGAU1ImuUGyKSw-FrEBNTYgsGcw1lvR2lL2V7vm_xVdXql973N_A_oAfQY8nr_ucD-PHpdXq_Pi1m4HtsFcieVHMqnwp8v2J_MYa6h_LcTv7OW5-OFvY9N9V8Db0veZ3LEwzWfNV3H1udQuzltU1GrKgjhR48yH8gykB0LaPRGhGW85b7TwAAAP__6GpYvA" target="_blank" style="display:block; font-size:0px; line-height:0px; font-weight:300; text-decoration:none; color:#ffffff; font-family: 'gotham-light', 'Roboto Light', Roboto, Helvetica Neue, Helvetica, Open sans, Arial, sans-serif; cursor:pointer;">Support</a>
+                                              </td>
+                                            </tr>
+                                            <tr>
+                                              <td>
+                                                <a class="menu-label fade delay-0-6" href="https://email.email.withings.com/c/eJxUzs2K6zAMhuGrkZdFlhXLXXhxDqW3Efw3jaFOgutMb39omM0s9SA-3uwtx8xOFa-tc1rYTU4tPmo2OnBE5ivZmK6MEieKLhYKhrKqnpAMCmpEo1EuiEgOp69JOOVsLDCWFurz8q5jqevjdUlbU0-_jLG_wPwDugPdQ0rbsY4_T2Dux2jzazt6KmBuqTcg-6FWcj0amNu5_IsptD3Ux_rh77KO-d3Dvpeuum9hjKU8Y30AYytnwfCptzmkUbd1ZrGi3jmM4EH-A1EBojOOrpZFjHxuuf0EAAD__5PQWnY" target="_blank" style="display:block; font-size:0px; line-height:0px; font-weight:300; text-decoration:none; color:#ffffff; font-family: 'gotham-light', 'Roboto Light', Roboto, Helvetica Neue, Helvetica, Open sans, Arial, sans-serif; cursor:pointer;">Account</a>
+                                              </td>
+                                            </tr>
+                                          </table>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </table>
+
+                                  <!--<![endif]-->
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+
+                      <!--[if mso]><table width="720" align="center" border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                      <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                          <td style="max-width: 720px; padding: 0px 32px 0px 32px;">
+
+                            <!--[if mso]><table width="540" align="center" border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                            <table width="90%" border="0" cellpadding="0" cellspacing="0" align="center" style="max-width: 540px; padding-bottom: 32px;background: rgba(15, 15, 15, 0.7); ">
+                              <tr>
+                                <td align="center" valign="top">
+                                  <img align="center" src="https://media.withings.com/email/temporary/202306/withings15/hero-en.gif" width="100%" height="auto" style="display: block; max-width: 300px; border-radius: 8px;" />
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="light-text" align="center" style="color: #ffffff; font-weight: 500; text-decoration:none; font-size: 34px; font-family: 'Aeonik-bold', 'Poppins', Arial, sans-serif; line-height:40px; padding-top: 32px;">
+                                  Thank you for 15 years
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="light-text" align="center" style="color: #ffffff; font-weight: 400; text-decoration:none; font-size: 16px; font-family: 'Aeonik', 'Poppins', Arial, sans-serif; line-height:24px; padding-top: 32px;">
+                                  Health and technology are converging and Withings was there from the start. Creating innovative and accessible tools is what we do, and our award-winning ecosystem of smart devices are now helping millions of people around the world. By choosing to make Withings part of your daily life you are also a pioneer, and we&#8217;re proud to have you with us on the path to better health.
+                                </td>
+                              </tr>
+                            </table>
+
+                            <!--[if mso]></td></tr></table><![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+
+                      <!--[if mso]></td></tr></table><![endif]-->
+                    </td>
+                  </tr>
+                </table>
+
+                <!-- BLOCK - end Introduction -->
+
+                <!-- BLOCK - Video -->
+                <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+                  <tr>
+                    <td>
+
+                      <!--[if mso]><table width="720" align="center" border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                      <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+                        <tr>
+                          <td class="bg-sec" style="max-width: 720px; padding: 32px;background-color: #F2EEEA;">
+
+                            <!--[if mso]><table width="540" align="center" border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                            <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="max-width: 540px;">
+                              <tr>
+                                <td class="light-text" align="center" style="color: #000000; font-weight: 500; text-decoration:none; font-size: 24px; font-family: 'Aeonik-bold', 'Poppins', Arial, sans-serif; line-height:30px;">
+                                  A matter of the utmost importance
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="light-text" align="center" style="color: #000000; font-weight: 400; text-decoration:none; font-size: 16px; font-family: 'Aeonik', 'Poppins', Arial, sans-serif; line-height:24px; padding-top: 32px;">
+                                  How do you pronounce Withings? It's been a burning hot question for years... Why-things? Wee-things? With-ings? Watch as we ask Eric Carreel, co-founder and president of Withings, to finally give you a definitive answer.
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align="center" style="padding-top: 32px;">
+                                  <a target="_blank" href="https://email.email.withings.com/c/eJxUj8-uqyAQxp8Gd22GARnOgsW9Mb6GQRiVpGCjtOa-_Y2mXZzl_ObL9yc6o8eobcNOGmsladvaZnGtnwyDUjyNMQTvicwUWP9YY1HGKTTJIaACAgmgJNAdANBCO7WkQ4zKCA2cfXrcj1SXVOb9HtbcPNxS63MX6o_AXmB_HMcvgcCe31zq-frgm2zrcvOlpDdvu9_-CdW_ah729bUFFqoLWxZoTpQ5plcWqruSPzD4_PRpLic-rYeruBm-_rIdvsq11DNbdSPeUp6bzWVf68KPMc1CQ-ZrQ3Vhy4MPNa1l0GSoOaKv3gn6KxBZIF7z8MdoIkXnTd3_AAAA__8vlHHa"><img class="box-shadow" align="center" src="https://media.withings.com/email/temporary/202306/withings15/thumbnail.jpg" width="100%" height="auto" style="display: inline; max-width: 500px; border-radius: 8px; box-shadow: 0px 4px 4px #DDD9D5" /></a>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="padding-top: 32px;">
+                                  <table align="center">
+                                    <tr>
+                                      <td class="cta_hover_black" style="min-width: 75px; border-radius: 16px; background-color: #0F0F0F; border-color: #0f0f0f; color: #ffffff; padding: 0px 24px 0px 24px;">
+                                        <a class="cta_blue" href="https://email.email.withings.com/c/eJxUj8uuozAMhp8m7Fo5zpVFFjNCvAZyk5wSqQkVuEXz9iNQuzhLf_71X1Kw-pa073KQ1nvptDe-m4NJykZje0Bl9I923kBvScY-kfFGUVcCAipwIAGUBHcFAPRgfozTMSVlhYZcqTyue-G5tPt2jUvtHmFmfm5C_RE4Chz3ff8lEDjmd258vD74Ig3PF2qtvPO60fpPqPHFddqW1xqzUENcq0B7oJpTeVWhhjP5AyPVJ5V7O_BhPZ3F7fT1l2b6KpfGR7YabniJTN0aKjHP-XErd6Gh5nMDh7jWiSKXpU3aWdftiZiCcH8FYhaI5zzsrXZOueN2w_8AAAD__wwncCc" target="_blank" style="text-align: center; display:block; font-size:16px; min-height:50px; line-height:50px; font-weight: 400; text-decoration:none; color: #ffffff; font-family: 'Aeonik-bold', 'Poppins', Arial, sans-serif; cursor:pointer; ">Watch the video</a>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+
+                            <!--[if mso]></td></tr></table><![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+
+                      <!--[if mso]></td></tr></table><![endif]-->
+                    </td>
+                  </tr>
+                </table>
+
+                <!-- BLOCK - end Video -->
+
+                <!-- BLOCK - cata -->
+                <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+                  <tr>
+                    <td style="padding-top: 32px">
+
+                      <!--[if mso]><table width="720" align="center" border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                      <table width="90%" border="0" cellpadding="0" cellspacing="0" align="center" style="max-width: 720px;">
+                        <tr>
+                          <td dir="ltr" align="center" class="light-text" style="color: #ffffff; font-weight: 500; text-decoration:none; font-size: 24px; font-family: 'Aeonik-bold', 'Poppins', Arial, sans-serif; line-height:30px; padding-bottom: 32px;">
+                            Innovation never stops
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="bg-prim desktop-no-bg" style="font-size:0;" align="center">
+
+                            <!--[if (gte mso 9)|(IE)]><table cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 100%;"><tr><td valign="top" style="width: 360px;"><![endif]-->
+                            <div style="text-align: right; display: inline-block; vertical-align: middle;">
+                              <table cellpadding="0" cellspacing="0" border="0" role="presentation" style="text-align: right; width: 360px; ">
+                                <tr>
+                                  <td align="center" valign="top">
+                                    <a href="https://email.email.withings.com/c/eJxUj82KrDAQRp-m3N2mUpU_F1ncQXwNiTGtARMbTY-vPyjTi1nW4eNwanJajpO0TXRCWyuMtMo2ixN65BFb8WSlnqxa32rJgYSJXsTWhiY5QmI0KBBZoHkgIllUT2VkmCbWIDFmn9bHmeqSynw8wpab1S21vg7g_0A9UH-e558BUH8Ev8YDuH_XPBzbew8RuAt7BtIXynFK7wzc3fpfGHx--TSXC3_HUoe7Tg8ft1DDZ7mVGksF7kb-l_JMze6yr3WJ65hmkJjjXVpd2PPgQ01bGaTRpjknX70D8wVEEYjuJ6jV0hg21226nwAAAP__pVtmuQ" target="_blank"><img class="desktop-no-radius" align="center" src="https://media.withings.com/email/temporary/202306/withings15/img01.jpg" width="100%" height="auto" style="display: block; max-width: 400px;" /></a>
+                                  </td>
+                                </tr>
+                              </table>
+                            </div>
+
+                            <!--[if (gte mso 9)|(IE)]></td><td valign="top" style="width: 360px;"><![endif]-->
+                            <div style="display:inline-block;vertical-align:top;">
+                              <table class="desktop-bg-img1 desktop-padding-fix" cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 360px; padding: 32px;">
+                                <tr>
+                                  <td dir="ltr" align="center" class="light-text text" style="color: #FFFFFF; font-weight: 500; text-decoration:none; font-size: 24px; font-family: 'Aeonik-bold', 'Poppins', Arial, sans-serif; line-height:32px;">
+                                    Scales
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="padding-top: 16px;">
+                                    <table align="center">
+                                      <tr>
+                                        <td class="cta_hover_blue" style="min-width: 75px; border-radius: 16px; background-color: #6784FF; border-color: #6784FF; color: #ffffff; padding: 0px 24px 0px 24px;">
+                                          <a class="cta_blue" href="https://email.email.withings.com/c/eJxUj82OqzAMRp_G7G5lnBCniyzuCPEaKH-USAQqcIfXHxVNF7P00aej4-SMDknbJrvWWNuytp1tZheCt97cUXWofIjRpOynkIjTNCW23BRHSAoZW0TVIt8QkSx2U8c6pqQMaMzVl-V2FpnL-jhucavN4maR5wHqP9AANJzn-WcANBzRL_kANbykjsf22mMG1ce9Apk3qjmVVwXVX_pfGH19-vJY3_g7rzJedWb8uNtu_Cy3VfIqoPqg_kXx1OyuepE5L6E8QGPNV6m4uNfRRynbOmo23JzJi3fAX0CUgeh6gu5GMyt-39z_BAAA__9aFWgu" target="_blank" style="text-align: center; display:block; font-size:16px; min-height:50px; line-height:50px; font-weight: 400; text-decoration:none; color: #ffffff; font-family: 'Aeonik-bold', 'Poppins', Arial, sans-serif; cursor:pointer; ">Shop now</a>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </table>
+                            </div>
+
+                            <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="bg-prim desktop-no-bg" style="font-size:0;" align="center" valign="top" dir="rtl">
+
+                            <!--[if (gte mso 9)|(IE)]><table cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 100%;"><tr><td valign="top" style="width: 360px;"><![endif]-->
+                            <div style="text-align: right; display: inline-block; vertical-align: middle;">
+                              <table cellpadding="0" cellspacing="0" border="0" role="presentation" style="text-align: right; width: 360px">
+                                <tr>
+                                  <td align="center" valign="top">
+                                    <a href="https://email.email.withings.com/c/eJxUz0FuhDAMBdDTmF1HThySsMiiFZproIyTQqQJjMCU61egzqJLP319fadgzSMZ3-SgrPfKGd_6ZgqdSlmRtZGYoveMKabUddza1jpWXVOCRk3oUCGSQndDRO2x_W6d4ZTIgsFcY3nejiJTmcftxkttnmESeW1An6DvoO_HcfwLnBSFp7wB3Xepw7bsK2egntcK2p5Ucyp7Beqv_j_kWF-xjPPJP3mW4Zpnh3e5aod3cpklzwLUP-ij1FE1a6hRZMrPRxnBYM3XVAm81iGylGUejLOuOVKUGMB9gdYZtL6-0J01zpE7b9f_BgAA__-gnmeT" target="_blank"><img class="desktop-no-radius" align="center" alt="" src="https://media.withings.com/email/temporary/202306/withings15/img02.jpg" width="100%" style="display: block; max-width: 400px;" /></a>
+                                  </td>
+                                </tr>
+                              </table>
+                            </div>
+
+                            <!--[if (gte mso 9)|(IE)]></td><td valign="top" style="width: 360px;"><![endif]-->
+                            <div style="display:inline-block;vertical-align:top;">
+                              <table class="desktop-bg-img2 desktop-padding-fix" align="center" cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 360px; height: auto; padding: 32px;">
+                                <tr>
+                                  <td dir="ltr" align="center" class="light-text text" style="color: #FFFFFF; font-weight: 500; text-decoration:none; font-size: 24px; font-family: 'Aeonik-bold', 'Poppins', Arial, sans-serif; line-height:32px; ">
+                                    Watches
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="padding-top: 16px;">
+                                    <table align="center">
+                                      <tr>
+                                        <td class="cta_hover_blue" style="min-width: 75px; border-radius: 16px; background-color: #6784FF; border-color: #6784FF; color: #ffffff;padding: 0px 24px 0px 24px;">
+                                          <a class="cta_blue" href="https://email.email.withings.com/c/eJxUz82OqzAMBeCnMbtbOT8k6SKLO0J9DZQ6pkRqQgXu8Poj0HQxS386OjrO0dl7tqHjqFwIytvQh26Oidkp4xNNUzC9mhwGR6SmaybsXaKuRI3aoEeFaBT6CyLqgP3Ue0s5GwcWuabyvOxF5tIe24WW2j3jLPLawPwHfQN92_f9T-CgJDTzBub2ljpuy3slBjPQWkG7gyrn8q5ghrP_FynVVyqPdvA3NxnPeW78lKt-_CSXJtwEzHA3_0iS6tZYk8jMz3t5gMXK51SJtNYxkZSljdY73-05SYrgv0BrBq3PL_TVWe-NP24__AQAAP__OgpoFA" target="_blank" style="text-align: center; display:block; font-size:16px; min-height:50px; line-height:50px; font-weight: 400; text-decoration:none; color: #ffffff; font-family: 'Aeonik-bold', 'Poppins', Arial, sans-serif; cursor:pointer; ">Shop now</a>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </table>
+                            </div>
+
+                            <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="bg-prim desktop-no-bg" style="font-size:0;" align="center">
+
+                            <!--[if (gte mso 9)|(IE)]><table cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 100%;"><tr><td valign="top" style="width: 360px;"><![endif]-->
+                            <div style="text-align: right; display: inline-block; vertical-align: middle;">
+                              <table cellpadding="0" cellspacing="0" border="0" role="presentation" style="text-align: right; width: 360px; ">
+                                <tr>
+                                  <td align="center" valign="top">
+                                    <a href="https://email.email.withings.com/c/eJxUj02KhDAQRk9T7rop82svsphBvIbEJGrAJE0sx-sPyvRilvX44L3yRonJi64JplVd12rRya5ZjZyll69JofNWz2G2QYrZei9mIRBb30TDkHHU2CLyFvUTEVmHcpZaOO-5AoEh2bg9z0hrzMv-dCU1m1mJ3jvwL2ADsOE8z38DYMO0leIf7xr2_ajhkUqOVOoOfDgojXs5qgvAe1cTMHWhFHw8EvD-9v1BZ9PbxiVf-CdkGu9cNX5krRw_y5IpZALeT_wR08KbapIlWsM2xQUEpnCnk3E1jdZRLHkUWunm9JasAf0NjAVg7P6KvZTQmuvr1v1vAAAA__9JwG7m" target="_blank"><img class="desktop-no-radius" align="center" src="https://media.withings.com/email/temporary/202306/withings15/img03.jpg" width="100%" height="auto" style="display: block; max-width: 400px;" /></a>
+                                  </td>
+                                </tr>
+                              </table>
+                            </div>
+
+                            <!--[if (gte mso 9)|(IE)]></td><td valign="top" style="width: 360px;"><![endif]-->
+                            <div style="display:inline-block;vertical-align:top;">
+                              <table class="desktop-bg-img3 desktop-padding-fix" cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 360px; padding: 32px;">
+                                <tr>
+                                  <td dir="ltr" align="center" class="light-text text" style="color: #FFFFFF; font-weight: 500; text-decoration:none; font-size: 24px; font-family: 'Aeonik-bold', 'Poppins', Arial, sans-serif; line-height:32px; ">
+                                    BP Monitor
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="padding-top: 16px;">
+                                    <table align="center">
+                                      <tr>
+                                        <td class="cta_hover_blue" style="min-width: 75px; border-radius: 16px; background-color: #6784FF; border-color: #6784FF; color: #ffffff; padding: 0px 24px 0px 24px;">
+                                          <a class="cta_blue" href="https://email.email.withings.com/c/eJxUj01ugzAQRk8z7BIZ_2fhRSvENZCxh2AJ25EZyvWroGbR5Tx90nsTnZZzlLZD12treyOtst3qZhUWZYW2XKtFLchskA81a-_NLDAuXXKcccEM6xkTPTN3xhi3TC3KyBCj0CAZZp-2-5loTeW530PN3eZWotcO4gv4CHw8z_PfAPg4b7XG26vhvh8Nb7mWRLXtIMaD8rTXowUEMYSWges3yhjTkUEMl-8PBp9fPj3LG_9goenK1dNH1qvps6yFsBCIYRa3QF50zWVPtOI2pydIlvFKJxdannygVMskjTbdGT15B-YbOEfg_PqKP7Q0Rpj3bYbfAAAA__-odm5l" target="_blank" style="text-align: center; display:block; font-size:16px; min-height:50px; line-height:50px; font-weight: 400; text-decoration:none; color: #ffffff; font-family: 'Aeonik-bold', 'Poppins', Arial, sans-serif; cursor:pointer; ">Shop now</a>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </table>
+                            </div>
+
+                            <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="bg-prim desktop-no-bg" style="font-size:0;" align="center" valign="top" dir="rtl">
+
+                            <!--[if (gte mso 9)|(IE)]><table cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 100%;"><tr><td valign="top" style="width: 360px;"><![endif]-->
+                            <div style="text-align: right; display: inline-block; vertical-align: middle;">
+                              <table cellpadding="0" cellspacing="0" border="0" role="presentation" style="text-align: right; width: 360px">
+                                <tr>
+                                  <td align="center" valign="top">
+                                    <a href="https://email.email.withings.com/c/eJxUj0FuhDAMRU9jdh0ZJ8TpIotWiGugkHggEoERhHL9CtRZdOmnp6_n6IweoraVuNpYW7O2ja0mh7HGGhH5GQLqwWgarFdWhqexLExVcoSkkC9L1cgPRCSLzbNhHWJUBjRK9ml-nKlMaRn3R1hzNbuplNcO6guoA-rO8_wnAHX7LPIC1R0l9_t6bEFAtWHLQOZCWWI6Mqj2Xv-DweeXT-Ny4R9ZSn_Hmf49XTf921yXIksB1Q7qI-WxqTaXfSmTzEMaQWOWO7S4sOXeh5LWpddsuDqjL94BfwORANH9A30azaz4urn9DQAA__9TgWZ1" target="_blank"><img class="desktop-no-radius" align="center" alt="" src="https://media.withings.com/email/temporary/202306/withings15/img04.jpg" width="100%" style="display: block; max-width: 400px;" /></a>
+                                  </td>
+                                </tr>
+                              </table>
+                            </div>
+
+                            <!--[if (gte mso 9)|(IE)]></td><td valign="top" style="width: 360px;"><![endif]-->
+                            <div style="display:inline-block;vertical-align:top;">
+                              <table class="desktop-bg-img4 desktop-padding-fix" align="center" cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 360px; height: auto; padding: 32px;">
+                                <tr>
+                                  <td dir="ltr" align="center" class="light-text text" style="color: #FFFFFF; font-weight: 500; text-decoration:none; font-size: 24px; font-family: 'Aeonik-bold', 'Poppins', Arial, sans-serif; line-height:32px;">
+                                    Thermo
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="padding-top: 16px;">
+                                    <table align="center">
+                                      <tr>
+                                        <td class="cta_hover_blue" style="min-width: 75px; border-radius: 16px; background-color: #6784FF; border-color: #6784FF; color: #ffffff;padding: 0px 24px 0px 24px;">
+                                          <a class="cta_blue" href="https://email.email.withings.com/c/eJxUj0FuhDAMRU9jdh05TojTRRatENdAmSQMkQiMwFOuX4E6iy799PX0nLw192Rck72yzik2rnXN5C0H5QKNlBGVTdoFreLoNFpiRzw2xROSRkaFqBXyDRHJYTu2bGJK2oLBXEOZb0eRqSyP_RbX2sx-EnnuoL-AeqD-OI5_A6B-n3N-gu5fUod9fW0xg-7iVoHsiWpO5VVBd5f9D8ZQn6E8lhP_5EWGK84Ob7Vqh_dyXSQvArq7648ooW02X4PIlOd7eYDBmq9Q8XGrQ4hS1mUwbLk5UpDggb-BKAPR9QN9WsOs-by5-w0AAP__9lRmGw" target="_blank" style="text-align: center; display:block; font-size:16px; min-height:50px; line-height:50px; font-weight: 400; text-decoration:none; color: #ffffff; font-family: 'Aeonik-bold', 'Poppins', Arial, sans-serif; cursor:pointer; ">Shop now</a>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </table>
+                            </div>
+
+                            <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="bg-prim desktop-no-bg" style="font-size:0;" align="center">
+
+                            <!--[if (gte mso 9)|(IE)]><table cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 100%;"><tr><td valign="top" style="width: 360px;"><![endif]-->
+                            <div style="text-align: right; display: inline-block; vertical-align: middle;">
+                              <table cellpadding="0" cellspacing="0" border="0" role="presentation" style="text-align: right; width: 360px;">
+                                <tr>
+                                  <td align="center" valign="top">
+                                    <a href="https://email.email.withings.com/c/eJxUj8FugzAMhp_G3FaF2InpIYdNiNdAIfEgUgMVdcfrT0XrYUd_-vXpcw6epkxdI6H1Xdcyda5rlsBMdOXJIaFQ9uL85K5xShnbLNlyU4I1Fg2b1hhsDV-MMbYz7tsxpZzRAxmpsdwuR9GlrPPjkrba3MKien8AfoIdwA7HcfwbgB10kb1ugMNT6_jYnnsSwD7tFax_oSq5PCtgf-r_YIr1Hsu8vvCPrDqedX58u1s3vpfbqrIqYD_hR6kzNXuoUXWR21RmIFPlLNWQ9jrGpGVbR2LPzZGjxgD8BdYKWHs-Ya-emJFfN_e_AQAA__8nomc3" target="_blank"><img class="desktop-no-radius" align="center" src="https://media.withings.com/email/temporary/202306/withings15/img05.jpg" width="100%" height="auto" style="display: block; max-width: 400px;" /></a>
+                                  </td>
+                                </tr>
+                              </table>
+                            </div>
+
+                            <!--[if (gte mso 9)|(IE)]></td><td valign="top" style="width: 360px;"><![endif]-->
+                            <div style="display:inline-block;vertical-align:top;">
+                              <table class="desktop-bg-img5 desktop-padding-fix" cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 360px; padding: 32px;">
+                                <tr>
+                                  <td dir="ltr" align="center" class="light-text text" style="color: #FFFFFF; font-weight: 500; text-decoration:none; font-size: 24px; font-family: 'Aeonik-bold', 'Poppins', Arial, sans-serif; line-height:32px;">
+                                    Sleep
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="padding-top: 16px;">
+                                    <table align="center">
+                                      <tr>
+                                        <td class="cta_hover_blue" style="min-width: 75px; border-radius: 16px; background-color: #6784FF; border-color: #6784FF; color: #ffffff; padding: 0px 24px 0px 24px;">
+                                          <a class="cta_blue" href="https://email.email.withings.com/c/eJxUj0GOszAMRk9jdn9l7BCHRRb_CHENlIS0RGqgou5w_VHRdDFLP316ep69NXE2rsm-tc61YlznmsVb13VtDLGPzliR0HLk_opXl4gxx74pnpAYBVtEblEuiEgOu2snJs0zWzCYayj3y1F0KevteUlbbe5-UX08gf8DjUDjcRx_BkCjLnmvG_D40jo9t9eeMvCQ9gpk36jmubwq8HDqf2EK9RHKbX3j77zqdNbZ6eNuu-mz3FbNqwIPkf8lDabZfQ2qS77HcgODNZ-l6tNep5C0bOtkxEpzzEGDB_kCogxE5xPUWyPC8r5l-AkAAP__7X9m_A" target="_blank" style="text-align: center; display:block; font-size:16px; min-height:50px; line-height:50px; font-weight: 400; text-decoration:none; color: #ffffff; font-family: 'Aeonik-bold', 'Poppins', Arial, sans-serif; cursor:pointer; ">Shop now</a>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </table>
+                            </div>
+
+                            <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+
+                      <!--[if mso]></td></tr></table><![endif]-->
+                    </td>
+                  </tr>
+                </table>
+
+                <!-- end BLOCK - cata -->
+
+                <!-- BLOCK - Footer -->
+                <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                  <tr>
+                    <td>
+
+                      <!--[if mso]><table width="720" align="center" border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                      <table width="100%" border="0" align="center" style="padding-top: 32px; max-width: 720px;" cellspacing="0">
+                        <tr>
+                          <td align="center" style="padding: 32px 32px 100px 32px;">
+
+                            <!--[if mso]><table width="540" align="center" border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                            <table style="max-width: 540px;" border="0" width="100%" align="center">
+                              <tr>
+                                <td class="light-text text" style="color: #ffffff; font-weight: 400; text-decoration:none; font-size:24px; font-family: 'Aeonik-bold', 'Poppins', Arial, sans-serif; line-height:32px; text-align: center;">
+                                  What did you think of this email?
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>
+
+                                  <!--[if mso]><table width="250" align="center" border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                                  <table width="100%" style="max-width: 250px; padding-top: 8px;" align="center">
+                                    <tr>
+                                      <td>
+                                        <a href="https://email.email.withings.com/c/eJxUzrtu4zAQheGnGXUWhjMUSRUsdqFVswjSJaXBy8giIsmGzFhAnj6Iu5QHOD_wZW90zNo14pVxTlntOtfM3ihRup8k4xRz7HqVJFGyPYlDCpya4gmJ0aJCZIW2RURy2E2d1SlnNqBR1lCW9ih1Ltvl3qbr2ix-rvV2B_4DNAKNx3H8OgCNt-u9np7paRLJMaQP4DHta8nAQ_fyzm-L-_p_-ldfxzZJZI6TAjLykK0CD3uoZbsAmUdYPgV4UM3u11DrLEssF9C4ytNSfdrXc0i1XLeztsY2Rw41eLB_gUiA6Mmk3mhr2f5sO3wHAAD__9e5W3A" target="_blank" style="cursor:pointer;">
+                                          <img alt="1/5" border="0" src="https://media.withings.com/email/permanent/evaluation/1note1.png" width="40" height="auto" style="display: inline; max-width: 40px;" />
+                                        </a>
+                                      </td>
+                                      <td>
+                                        <a href="https://email.email.withings.com/c/eJxUzj1PwzAQxvFPc9kaXe781sEDKGRBiA3GyrHPjUWSVqlpJD49ohvjIz1_6Ze8UWNSrhHfGec6q5x2zeRZW81itTqy5Ohyjg5F5zSSwpSCboonJEaLHSJ3aFtEJIc6a6tiSmxAoSyhzO1e6lTW862Nl6WZ_VTr9Qb8BDQADfu-_zsADdfLrR4e6SGLpDHEL-AhbktJwL1---SP2f28Hl7q-9BGGZnH3AEZuctagfst1LKegcw9zN8C3FOz-SXUOsk8ljMoXORhqT5uyynEWi7rSVljmz2FGjzYZyASIHow6WiUtWz_tu1_AwAA__-uv1tS" target="_blank" style="cursor:pointer;">
+                                          <img alt="2/5" border="0" src="https://media.withings.com/email/permanent/evaluation/1note2.png" width="40" height="auto" style="display: inline; max-width: 40px;" />
+                                        </a>
+                                      </td>
+                                      <td>
+                                        <a href="https://email.email.withings.com/c/eJxUzrFq5DAQxvGnGXdrRjOSRi5U3OFzc4R0SbnIkrwWsb2LV1lDnj5ku5QffH_4JW_1mLRrslfWOSXaGdfM3iBaE7UIsUykOmu0jp0zuhOtQo5N8YTEKKgQWaG0iEgOzWREx5TYgsa8hrK0R6lz2S73Nl7XZvFzrbc78B-gAWg4juPXAWi4Xe_19ExPU85pDPEDeIj7WhJwb17e-W1xX_9P_-rr0MY8Mo-TArL5kbcK3O-hlu0CZB9h-czAPTe7X0Otc17GcgGNa35aqo_7eg6xlut21mKlOVKowYP8BaIMRE8mdVaLsPxs6b8DAAD__yQ7WdU" target="_blank" style="cursor:pointer;">
+                                          <img alt="3/5" border="0" src="https://media.withings.com/email/permanent/evaluation/1note3.png" width="40" height="auto" style="display: inline; max-width: 40px;" />
+                                        </a>
+                                      </td>
+                                      <td>
+                                        <a href="https://email.email.withings.com/c/eJxUzrtOw0AQheGnGXexxjN7S7EFyLhBiA7KaG-OV9hO5AyxxNMj0lEe6fzSl71RMSvXFN8Z5zqrnHbN5BWlo0oczdhFbVS0usSEjs1Ix0ysm-oJidFih8gd2hYRyaEetVUpZzagsCyhzu1eZarr-damy9LMfhK53oCfgAagYd_3fweg4Xq5yeGRHsZScgzpC3hI21IzcK_fPvljdj-vhxd5H9pUInMcOyBT7mUV4H4LUtczkLmH-bsA96rZ_BJEpjLHegaFS3lYxKdtOYUk9bKelDW22XOQ4ME-A1EBogeTjkZZy_Zv2_43AAD__xi2Wrk" target="_blank" style="cursor:pointer;">
+                                          <img alt="4/5" border="0" src="https://media.withings.com/email/permanent/evaluation/1note4.png" width="40" height="auto" style="display: inline; max-width: 40px;" />
+                                        </a>
+                                      </td>
+                                      <td>
+                                        <a href="https://email.email.withings.com/c/eJxUzjFr8zAQxvFPc95ipDtJJw8a3pfUSynd2jHI0jkWtZ3gqDH005dk6_jA84dfDs4M2fhGgnbeazbe-mYK1ls9knQsOnbajmPsDHtWZKmLlqkpARWSYqWVIq24VUqhV3a0bFLO5MAoWWKZ273UqaznW5suSzOHqdbrDegfYA_Y7_v-5wDYXy-3enimh1EkDzF9AfVpW0oGOtq3T_qY_c_r4aW-922SgWgYNaCTu6wV6LjFWtYzoLvH-VseSbOFJdY6yTyUMxi1yNNSQ9qWU0y1XNaTYcfNnmONAfg_IAogPpnYOcNM_Nh8_A0AAP__nQJaQQ" target="_blank" style="cursor:pointer;">
+                                          <img alt="5/5" border="0" src="https://media.withings.com/email/permanent/evaluation/1note5.png" width="40" height="auto" style="display: inline; max-width: 40px;" />
+                                        </a>
+                                      </td>
+                                    </tr>
+                                  </table>
+
+                                  <!--[if mso]></td></tr></table><![endif]-->
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="light-text" style="padding-top: 16px; color: #ffffff; font-weight: 400; text-decoration:none; font-size:12px; font-family: 'Aeonik', 'Poppins', Arial, sans-serif; line-height:20px; text-align: center;">
+                                  You have received this email because you have a Withings account.
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="light-text" style="padding-top: 16px; color: #ffffff; font-weight: 400; text-decoration:none; font-size:12px; font-family: 'Aeonik', 'Poppins', Arial, sans-serif; line-height:20px; text-align: center;">
+                                  This is an email related to the news of the brand. To unsubscribe from similar emails, <a class="light-text" href="#" style="color:#ffffff;text-decoration:none;font-weight:light;"><u>click here.</u></a><br />
+                                  To manage your email preferences, please visit our <a class="light-text" href="#" style="color:#ffffff;text-decoration:none;font-weight:light;"><u>notification center.</u></a>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="light-text" style="padding-top: 16px; color: #ffffff; font-weight: 400; text-decoration:none; font-size:12px; font-family: 'Aeonik', 'Poppins', Arial, sans-serif; line-height:20px; text-align: center;">
+                                  <a class="light-text" href="https://email.email.withings.com/c/eJxUzUGOrSAQheHVwExTFEjhgMF76biNG4RSSUQ7Qprtd-6d9fAkX86fvDVrMk6yV9Y5RcZNTh5-Um42W9xwstrGsBLbbcUZcFaakZTMHgE1ECgArYBGAEAH0zaRiSlpKwxwCfkce25HvvY6xrvI0x-tfVeh_wlcBC699z9A4HLyHk6BS-XnJ0euQ-On1CFcaYj3lXLL91Xl40to7eBzzbswUPhz33x8yivEt3kZsiR7Ci14Qf8FIgvETxlna4g0vTd9_QYAAP__YspN1g" style="color:#ffffff;text-decoration:none;font-weight:light;">Terms and Conditions</a> <span class="display-none">|</span> <a class="light-text" href="https://email.email.withings.com/c/eJxUjctqwzAQAL9mdTTr1WOlgw4txb8R9LItkJLgiIr-fWluPQ4MM9kbFbOyovjVWLuystqK0zsddnLZFRtzMdmh0lpT3GNyxq4yiuoJSSLjiihX5AURyaLeNauUszSgsPRQ2zLrOOv9eC3p0UXz5xjPF8gPoA1om3P-E4C2Vo7QgLbnVb9D-hGX72GMs7RYD1DYyzs0fLr6LaRRH_ebYsNi5jCCB_4EogJE7wc5o5gl_zF__QYAAP__6u9F7w" style="color:#ffffff;text-decoration:none;">Privacy</a>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="light-text" style="padding-top: 16px; color: #ffffff; font-weight: 400; text-decoration:none; font-size:12px; font-family: 'Aeonik', 'Poppins', Arial, sans-serif; line-height:20px; text-align: center;">
+                                  Withings<br>2, rue Maurice Hartmann<br>92130 Issy-Les-Moulineaux<br>FRANCE
+                                </td>
+                              </tr>
+                            </table>
+
+                            <!--[if mso]></td></tr></table><![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+
+                      <!--[if mso]></td></tr></table><![endif]-->
+                    </td>
+                  </tr>
+                </table>
+
+                <!-- end BLOCK - Footer -->
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+
+    <!-- end ENCAPSULATION -->
+  </body>
+</html>
